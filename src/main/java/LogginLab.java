@@ -9,7 +9,7 @@ public class LogginLab {
     public LogginLab() {
         this.threshold = 0;
     }
-
+//s
     public static void main(String[] args) {
 
         logger.log(Level.INFO, "Hello World!");
